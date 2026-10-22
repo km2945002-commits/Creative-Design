@@ -1,0 +1,8 @@
+{
+  "name": "Remix Creative Design Studio",
+  "description": "Creative Design Studio — Web \u0026 App Dev, Logos, Business Cards, Packaging \u0026 Flex Banners portfolio and client portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
